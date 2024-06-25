@@ -5,7 +5,7 @@ version = "0.4.21" # remember to update html_root_url
 authors = ["The Rust Project Developers"]
 license = "MIT OR Apache-2.0"
 readme = "README.md"
-repository = "https://github.com/rust-lang/log"
+repository = "https://github.com/ka-de/log"
 documentation = "https://docs.rs/log"
 description = """
 A lightweight logging facade for Rust
